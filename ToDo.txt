@@ -1,0 +1,37 @@
+
+Python:
+
+Use faker to create 2 databases for practice with 8 columns at least. - √
+* ( ? ) Add boolean column ( Car from work, work from Home,..) - √
+
+
+SQL:
+
+Join employees & personal info:
+1. Combine first name & last name, to create Full Name. - √
+2. Count age for the employees. - √
+3. Count how many years they're in the company since their hire date. - √
+4. Combine call code with phone number, seperated by a dash ( - ). - √
+5. Order by job description, ascended. - √
+6. Case Expeirence by titles ( junior, mid-level,.. ). - √
+7. Format salary to show , in thousands. - √
+8. Show yearly salary. - √
+9. Add a column showing the name of the company( db ) + the employee city. - √
+
+
+Power BI:
+
+1. Show Employees and a map with work place. - √
+2. Full employees information. - √
+3. Calculate salary:
+- Calculate by exp level - √
+- Monthly & yearly salary - √
+- Sum by experience for monthly and yearly - √
+- Calculate monthly and yearly by city - √
+- Have exp level filteration - √
+4. Count employees by exp level. - √
+5. Count emp per department. - √
+6. Count emps per city. - √
+7. Show car from work in a pie chart. - √
+8.Count employees age ( total 22, total 23,.. )
+9. Hiring per year and work place
